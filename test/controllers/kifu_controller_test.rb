@@ -1,6 +1,6 @@
 require 'test_helper'
 
-class GokifuindexControllerTest < ActionDispatch::IntegrationTest
+class KifuControllerTest < ActionDispatch::IntegrationTest
   # test "the truth" do
   #   assert true
   # end

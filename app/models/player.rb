@@ -1,3 +1,3 @@
 class Player < ApplicationRecord
-    has_many :kifu
+    has_many :kifus
 end
